@@ -41,6 +41,15 @@ const options = {
   dataLabels: {
     enabled: false,
   },
+  title: {
+    text: "Largest US Cities by Population",
+    align: "center",
+    margin: 20,
+    offsetY: 20,
+    style: {
+      fontSize: "25px",
+    },
+  },
 };
 
 // init chart
