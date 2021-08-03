@@ -30,6 +30,17 @@ const options = {
       "San Jose",
     ],
   },
+  plotOptions: {
+    bar: {
+      horizontal: false,
+    },
+  },
+  fill: {
+    colors: ["#f44366"],
+  },
+  dataLabels: {
+    enabled: false,
+  },
 };
 
 // init chart
