@@ -16,6 +16,20 @@ const options = {
       ],
     },
   ],
+  xaxis: {
+    categories: [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Houston",
+      "Philadelphia",
+      "Phoenix",
+      "San Antonio",
+      "San Diego",
+      "Dallas",
+      "San Jose",
+    ],
+  },
 };
 
 // init chart
